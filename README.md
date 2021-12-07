@@ -24,7 +24,7 @@ Click on the link to see the application
   
 ## About The App
 
-<img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="30%" />
+<img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="35%" />
 
 In this Proto-type mini-project , I was  built a  ***Tasty Kitchens App***  by applying the concepts that I have learned till now.
     
