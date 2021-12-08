@@ -24,7 +24,7 @@ Click on the link to see the application
   
 ## About The App
 
-<img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="35%" />
+<img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="30%" />
 
 In this Proto-type mini-project , I was  built a  ***Tasty Kitchens App***  by applying the concepts that I have learned till now.
     
@@ -34,7 +34,7 @@ In this, I was Implemented a  ***Responsive food delivery application***  with b
 - finally cart features like cart-items-list and total bill decrementing/incrementing cart items in cart route and payment section etc
 
 
-## Implementatioin steps
+## Implemented Steps
 - to achive these files more effective i have utilizied `figma`  mockups
 - implemented different routes for login,home,specific restuarant details,cart by using  `React Router components Route,Switch,Link,Redirect` etc.
 - used username and password for authentication login/logout,
